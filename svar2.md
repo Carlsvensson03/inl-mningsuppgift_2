@@ -1,0 +1,2 @@
+# Vad är ett Git-commit och varför är det viktigt?
+git commit är när man spara ändring med ett meddelande, det är viktigt för att man kan se vem som har gjort ngt och när och varför vilket e viktigt i stora projekt när man samarbeta. 
